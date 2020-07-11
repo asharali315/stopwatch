@@ -1,0 +1,35 @@
+body{
+margin:0;
+padding:0;
+background-image:url("download.jpg");
+}
+.container{
+  text-align: center;  
+}
+
+h1
+{
+    width:80px;
+    background-color: white;
+    color:black;
+    display: inline-block;
+    text-align: center;
+}
+
+button
+{
+padding: 2px;
+margin-left: 10px;
+width:80px;
+height:35px;
+color:white;
+background-color: darkgray;
+border-radius: 20px;    
+}
+
+button:hover
+{
+opacity: 0.9;
+cursor: pointer;
+}
+
